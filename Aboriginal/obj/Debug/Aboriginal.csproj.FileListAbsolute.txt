@@ -1,0 +1,8 @@
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\Aboriginal\Aboriginal.dll
+C:\Users\jimpig\Desktop\ischool desktop\localmodules\Aboriginal\Aboriginal.pdb
+C:\Users\jimpig\Desktop\Aboriginal\Aboriginal\Aboriginal\obj\Debug\Aboriginal.csprojResolveAssemblyReference.cache
+C:\Users\jimpig\Desktop\Aboriginal\Aboriginal\Aboriginal\obj\Debug\Aboriginal.Properties.Resources.resources
+C:\Users\jimpig\Desktop\Aboriginal\Aboriginal\Aboriginal\obj\Debug\Aboriginal.csproj.GenerateResource.Cache
+C:\Users\jimpig\Desktop\Aboriginal\Aboriginal\Aboriginal\obj\Debug\Aboriginal.dll
+C:\Users\jimpig\Desktop\Aboriginal\Aboriginal\Aboriginal\obj\Debug\Aboriginal.pdb
+C:\Users\jimpig\Desktop\Aboriginal\Aboriginal\Aboriginal\obj\Debug\Aboriginal.AboriginalForm.resources
